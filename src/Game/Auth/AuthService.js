@@ -1,4 +1,4 @@
-const BASE_URL = 'http://45.155.169.226'
+const BASE_URL = 'http://symfony.mmi-troyes.fr:8319'
 
 let instance = null
 
